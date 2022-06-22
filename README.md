@@ -4,7 +4,7 @@
 ![I am iOS Developer👩🏻‍💻](https://user-images.githubusercontent.com/96572733/175024890-e1bf7876-d231-40d2-98b5-30856167dded.png)
 
 
-Skills:
+# Skills:
 📱Swift 
 💻C#  
 💻 HTML, CS 
