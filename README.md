@@ -7,7 +7,7 @@
 # Skills:
 📱Swift 
 💻C#  
-💻 HTML, CS 
+
 
 
 
