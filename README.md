@@ -1,10 +1,12 @@
 ![Blue Modern Illustrative Gaming Influencer YouTube Channel Art](https://user-images.githubusercontent.com/96572733/192104103-107908fb-d193-4abe-a5c0-8b862d785921.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melikebolen1&label=Profile%20views&color=0e75b6&style=flat" alt="melikebolen1" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Melike Bolen</h1>
 <h3 align="center">A passionate iOS Developer. Swift and clean code enthusiast.</h3>
-A passionate iOS Developer. Swift and clean code enthusiast.Having 1+ years of experience in iOS development and being a self-learner on the Swift programming language via self-paced online courses. I also enjoy learning about UI/UX design  to improve the user interface and experience of every side project that I work on
+A passionate iOS Developer. Swift and clean code enthusiast. Having 1+ years of experience in iOS development and being a self-learner of the Swift programming language via self-paced online courses. I also enjoy learning about UI/UX design to improve the user interface and experience of every side project that I work on.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melikebolen1&label=Profile%20views&color=0e75b6&style=flat" alt="melikebolen1" /> </p>
 
 - 🔭 I’m currently working on **Mobile app development**
 
