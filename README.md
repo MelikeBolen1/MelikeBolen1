@@ -5,20 +5,26 @@
 
 <h1 align="center">Hi 👋, I'm Melike Bolen</h1>
 <h3 align="center">A passionate iOS Developer. Swift and clean code enthusiast.</h3>
-A passionate iOS Developer. Swift and clean code enthusiast. Having 1+ years of experience in iOS development and being a self-learner of the Swift programming language via self-paced online courses. I also enjoy learning about UI/UX design to improve the user interface and experience of every side project that I work on.
 
+Hello! My name is Melike and I've been working as an iOS developer for about a year now, always striving to improve my skills in Swift UI. 
+I love working in the mobile app development field and creating personalized, functional, and enjoyable applications for users.
+
+ Yoga and meditation are also an important part of my life, providing a healthy outlet for my mind and body and a source of energy.
 
 - 🔭 I’m currently working on **Mobile app development**
 
 - 🌱 I’m currently learning **SwiftUI, ReactNative**
 
-- 👯 I’m looking to collaborate on **freelancing projects**
+- 👯 One of my hobbies is playing badminton on the weekends, which is a great way for me to unwind after a stressful week.
 
-- 🤝 I’m looking for help with **freelancing iOS app development projects**
+- 🤝  Yoga and meditation are also an important part of my life, providing a healthy outlet for my mind and body and a source of energy.
 
 - 💬 Ask me about **Mobile app development**
 
 - 📫 How to reach me **melikebolen1@gmail.com**
+
+
+Feel free to check out my LinkedIn profile or browse through my GitHub projects to get in touch with me or to learn more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
