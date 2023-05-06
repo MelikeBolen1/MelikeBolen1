@@ -7,21 +7,13 @@
 <h3 align="center">A passionate iOS Developer. Swift and clean code enthusiast.</h3>
 
 Hello! My name is Melike and I've been working as an iOS developer for about a year now, always striving to improve my skills in Swift UI. 
+
 I love working in the mobile app development field and creating personalized, functional, and enjoyable applications for users.
 
- Yoga and meditation are also an important part of my life, providing a healthy outlet for my mind and body and a source of energy.
 
-- 🔭 I’m currently working on **Mobile app development**
-
-- 🌱 I’m currently learning **SwiftUI, ReactNative**
-
-- 👯 One of my hobbies is playing badminton on the weekends, which is a great way for me to unwind after a stressful week.
-
-- 🤝  Yoga and meditation are also an important part of my life, providing a healthy outlet for my mind and body and a source of energy.
-
-- 💬 Ask me about **Mobile app development**
-
-- 📫 How to reach me **melikebolen1@gmail.com**
+<p> 🧚🏻‍♀️ One of my hobbies is playing badminton on the weekends, which is a great way for me to unwind after a stressful week. </p>
+<p> 🧘🏻 Yoga and meditation are also an important part of my life, providing a healthy outlet for my mind and body and a source of energy. </p>
+<p> 🦄 In my free time, I enjoy reading manga and watching anime. There's something special about immersing yourself in a new world and following the characters through their journey. </p> It's a great way to relax and destress, and sometimes even provides inspiration for my own app development projects. 
 
 
 Feel free to check out my LinkedIn profile or browse through my GitHub projects to get in touch with me or to learn more.
