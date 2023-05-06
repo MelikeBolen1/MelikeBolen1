@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Melike Bolen</h1>
-<h3 align="center">A passionate iOS Developer. Swift and clean code enthusiast.</h3>
+<h3 align="center">A passionate iOS Developer. </h3>
 
 Hello! My name is Melike and I've been working as an iOS developer for about a year now, always striving to improve my skills in Swift UI. 
 
